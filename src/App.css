@@ -1,0 +1,10 @@
+.nav-link{
+    font-size: 20px;
+    color: rgb(232, 223, 223);
+}
+.navbar-nav{
+    align-items: right;
+    padding-left: 60%;
+
+
+}
